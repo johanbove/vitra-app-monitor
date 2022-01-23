@@ -8,6 +8,6 @@ You will need to `git clone` and `npm link` the vitra project first!
 
 ## Disclaimer
 
-I'm a total noob with this. So bear with me while I am learning how all of this works.
+I'm a total noob with this. So bare with me while I am learning how all of this works.
 
 ---
